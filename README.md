@@ -8,7 +8,7 @@
     - [Part 1: Mars News Data](#part-1-mars-news-data)
     - [Part 2: Mars Weather Data](#part-2-mars-weather-data)
 5. [Data Source](#5-data-source)
-6. [Reference](#6-reference)
+6. [Resources](#6-resources)
 
 
 ## 1. Overview
@@ -86,5 +86,6 @@ To deploy and run the analysis:
 2. **Mars Weather**: Temperature and pressure data were scraped from the [Mars Temperature Data Site](https://static.bc-edx.com/data/web/mars_facts/temperature.html).
 
 
-## 6. Reference
-The [Mars News Data Site](https://static.bc-edx.com/data/web/mars_news/index.html) is operated by edX Boot Camps LLC for educational purposes. Titles, previews, and data were scraped from [NASA's Mars News](https://mars.nasa.gov/) in November 2022. Images are used per the [JPL Image Use Policy](https://www.jpl.nasa.gov/jpl-image-use-policy), courtesy of NASA/JPL-Caltech.
+## 6. Resources
+- The [Mars News Data Site](https://static.bc-edx.com/data/web/mars_news/index.html) is operated by edX Boot Camps LLC for educational purposes. Titles, previews, and data were scraped from [NASA's Mars News](https://mars.nasa.gov/) in November 2022.
+- Images are used per the [JPL Image Use Policy](https://www.jpl.nasa.gov/jpl-image-use-policy), courtesy of NASA/JPL-Caltech.
