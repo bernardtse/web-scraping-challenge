@@ -5,8 +5,8 @@
 2. [Repository](#2-repository)
 3. [Deployment](#3-deployment)
 4. [Data Analysis and Notebook Workflow](#4-data-analysis-and-notebook-workflow)
-    - [Mars News Data](#mars-news-data)
-    - [Mars Weather Data](#mars-weather-data)
+    - [Part 1: Mars News Data](#part-1-mars-news-data)
+    - [Part 2: Mars Weather Data](#part-2-mars-weather-data)
 5. [Data Source](#5-data-source)
 6. [Reference](#6-reference)
 
@@ -38,7 +38,7 @@ To deploy and run the analysis:
 
 ## 4. Data Analysis and Notebook Workflow
 
-### Mars News Data
+### Part 1: Mars News Data
 1. **Visit the Website**: 
     - Automated browsing is used to visit the [Mars News website](https://mars.nasa.gov/). 
     - The page is inspected to identify elements for scraping.
@@ -53,7 +53,7 @@ To deploy and run the analysis:
         - `preview`: Summary of the news article.
     - Data is cleaned and converted to appropriate data types for analysis.
 
-### Mars Weather Data
+### Part 2: Mars Weather Data
 1. **Visit the Website**:
     - Automated browsing is used to visit the [Mars Temperature Data Site](https://static.bc-edx.com/data/web/mars_facts/temperature.html). 
     - The HTML table on the page is identified for scraping.
