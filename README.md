@@ -1,4 +1,5 @@
-# module11-challenge - Mars News and Weather Data Analysis
+# module11-challenge
+Mars News and Weather: Web Scraping and Data Analysis
 
 ## Contents
 1. [Overview](#1-overview)
