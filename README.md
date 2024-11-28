@@ -24,8 +24,8 @@ The repository contains the following:
     - [`part_2_mars_weather.ipynb`](part_2_mars_weather.ipynb): Scrapes and analyses Mars weather data.
 
 - **Export Files**:
-    - `Export/dict_list.json` (part 1): Contains scraped Mars news articles in JSON format.
-    - `Export/mars_temp_df.csv` (part 2): Contains processed Mars weather data in CSV format.
+    - `export/dict_list.json` (part 1): Contains scraped Mars news articles in JSON format.
+    - `export/mars_temp_df.csv` (part 2): Contains processed Mars weather data in CSV format.
 
 
 ## 3. Deployment
