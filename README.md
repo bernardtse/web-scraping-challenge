@@ -36,6 +36,7 @@ To deploy and run the analysis:
 3. Open the Jupyter notebooks (`part_1_mars_news.ipynb` and `part_2_mars_weather.ipynb`) in Jupyter Notebook.
 4. Execute the notebooks step-by-step to scrape and analyse data.
 
+![Web Scraping](images/webscraping.png)
 
 ## 4. Data Analysis and Notebook Workflow
 
@@ -81,6 +82,7 @@ To deploy and run the analysis:
         5. **How many terrestrial (Earth) days exist in a Martian year?**
             - Estimate based on the time Mars circles the Sun by plotting the daily minimum temperature.
 
+![Analysis](images/analysis.png)
 
 ## 5. Data Source
 1. **Mars News**: Titles and previews were scraped from the [Mars News Data Site](https://static.bc-edx.com/data/web/mars_news/index.html).
