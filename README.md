@@ -1,4 +1,4 @@
-# module11-challenge
+# web-scraping-challenge
 Mars News and Weather: Web Scraping and Data Analysis
 
 ## Contents
