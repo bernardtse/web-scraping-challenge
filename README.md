@@ -32,7 +32,7 @@ The repository contains the following:
 To deploy and run the analysis:
 
 1. Clone the repository to your local machine.
-2. Install the required Python libraries: `Splinter`, `BeautifulSoup`, `Pandas`, `Matplotlib`, and `JSON`.
+2. Install the required Python libraries: `Splinter`, `BeautifulSoup`, `pandas`, `Matplotlib`, and `JSON`.
 3. Open the Jupyter notebooks (`part_1_mars_news.ipynb` and `part_2_mars_weather.ipynb`) in Jupyter Notebook.
 4. Execute the notebooks step-by-step to scrape and analyse data.
 
@@ -49,7 +49,7 @@ To deploy and run the analysis:
 3. **Store the Results**:
     - Titles and previews are stored in Python dictionaries, with each dictionary containing `title` and `preview` keys.
     - All dictionaries are stored in a Python list.
-    - The list is converted into a Pandas DataFrame for further analysis and structured as follows:
+    - The list is converted into a pandas DataFrame for further analysis and structured as follows:
         - `id`: Identification number for news articles.
         - `title`: Title of the news article.
         - `preview`: Summary of the news article.
@@ -60,7 +60,7 @@ To deploy and run the analysis:
     - Automated browsing is used to visit the [Mars Temperature Data Site](https://static.bc-edx.com/data/web/mars_facts/temperature.html). 
     - The HTML table on the page is identified for scraping.
 2. **Scrape the Table**:
-    - A BeautifulSoup object extracts the data from the table, which is converted into a Pandas DataFrame with the following columns:
+    - A BeautifulSoup object extracts the data from the table, which is converted into a pandas DataFrame with the following columns:
         - `id`: Transmission identification number.
         - `terrestrial_date`: Earth date.
         - `sol`: Martian days since Curiosity landed.
@@ -70,7 +70,7 @@ To deploy and run the analysis:
         - `pressure`: Atmospheric pressure at Curiosity’s location.
     - Columns are cleaned and converted to appropriate data types (e.g., `datetime`, `int`, `float`).
 3. **Analyse the Data**:
-    - Key questions are answered using Pandas functions and Matplotlib visualisations:
+    - Key questions are answered using pandas functions and Matplotlib visualisations:
         1. **How many months exist on Mars?**
         2. **How many Martian (and not Earth) days are in the dataset?**
         3. **What are the coldest and warmest months on Mars?**
