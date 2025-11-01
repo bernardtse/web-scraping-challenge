@@ -20,12 +20,12 @@ This challenge involves scraping and analysing data related to Mars using web sc
 The repository contains the following:
 
 - **Jupyter Notebooks**:
-    - [`part_1_mars_news.ipynb`](part_1_mars_news.ipynb): Scrapes titles and preview text from Mars news articles.
-    - [`part_2_mars_weather.ipynb`](part_2_mars_weather.ipynb): Scrapes and analyses Mars weather data.
+    - [`part_1_mars_news.ipynb`](part_1_mars_news.ipynb) - Scrapes titles and preview text from Mars news articles
+    - [`part_2_mars_weather.ipynb`](part_2_mars_weather.ipynb) - Scrapes and analyses Mars weather data
 
 - **Export Files**:
-    - `export/dict_list.json` (part 1): Contains scraped Mars news articles in JSON format.
-    - `export/mars_temp_df.csv` (part 2): Contains processed Mars weather data in CSV format.
+    - `export/dict_list.json` (part 1) - Contains scraped Mars news articles in JSON format
+    - `export/mars_temp_df.csv` (part 2) - Contains processed Mars weather data in CSV format
 
 
 ## 3. Deployment
